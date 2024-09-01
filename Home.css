@@ -1,0 +1,110 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+header{
+    width: 100%;
+    height: 90px;
+    background-color: rgb(166, 182, 0);
+    box-shadow: 0px 0px 160px rgb(166, 182, 0);
+}
+header button{
+    width: 180px;
+    padding: 10px;
+    margin-top: 20px;
+    border: none;
+    background: none;
+    outline: none;
+    font-size: 25px;
+    box-shadow:0px 0px 20px whitesmoke;
+
+}
+header button:hover{
+    color:#07689f ;
+    box-shadow:0px 0px 15px rgb(12, 1, 1);
+
+}
+header img{
+    width: 100px;
+    float: right;
+    margin-top: 7px;
+    margin-left:8px ;
+}
+
+#imo1{
+    width: 100%;
+    height: 600px;
+    margin-top: 3px;
+
+}
+marquee{
+    position: absolute;
+    font-size: 38px;
+    top:250px ;
+    left: 600px;
+    float: center;
+    color: rgb(0, 0, 0);
+    text-align: center
+    
+    
+    width: 100%;
+    height: 200px;
+    font-weight:bold;
+    
+}
+aside{
+
+    background: rgb(206, 211, 196);
+    float: right;
+    width: 100%;
+    margin-top: -5px;
+}
+
+aside button{
+    width: 10%;
+    height: 25px;
+    font-size: 18px;
+    font-weight: bold;
+    background: none;
+    border: none;
+    border-bottom: 1px solid #407088;
+    border-left: 1px solid #407088;
+    float: right;
+}
+aside button:hover{
+    color: black;
+    background-color: #e00022;
+}
+
+section{
+    position: relative;
+    min-height: 30vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.bg{
+    position: fixed;
+    background-image: -moz-element( );
+}
+#d1{
+    width: 900px;
+    height: 300px;
+    background-color: rgb(255, 255, 255);
+
+
+
+}
+#d2
+
+#d3{
+    display: none;
+
+}
+
+#d4{
+    display: none;
+
+}
+
